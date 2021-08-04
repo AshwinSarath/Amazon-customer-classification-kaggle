@@ -2,7 +2,8 @@
 We all know that when we visit an e-commerce or TV series website or even YouTube we see a separate suggestion box, where in they show some content which you might like. These are mainly based on the content that you have consumed on their website previously. These are called as Recommendation engine.
 Based on certain features you have to cluster the customers into two different groups so that you can recommend the correct products based on the customer’s cluster.
 
-https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1623540%2F35f3efb9d1b54e9bc2f8a90cee016898%2F2.PNG?generation=1606564415878423&alt=media
+![image](https://user-images.githubusercontent.com/58180507/128196461-51e632ff-3c68-467e-8a78-ceba2874e585.png)
+
 
 Used SMOTEEN to resample the data 
 
